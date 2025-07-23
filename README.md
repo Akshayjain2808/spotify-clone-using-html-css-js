@@ -15,14 +15,5 @@ HTML5 – structure and layout
 CSS3 – responsive styling and transitions
 JavaScript (Vanilla) – dynamic song rendering, playlist control, and playback handling
 
-🚀 How to Run
-1. Clone this repository:
-    git clone https://github.com/Sonu-Kumhar/spotify-clone.git
-2. Open index.html in your browser.
-3. Add your songs into the designated folder (if applicable) and refresh to see them in the library.
-
 📱 Responsive
 The website is fully responsive and adjusts perfectly on desktop, tablet, and mobile devices.
-
-👨‍💻 Author
-Developed by Sonu Kumhar
